@@ -6,6 +6,9 @@ Created a Digital Clock with the following feature
 -Weekdays Indicator
 -Digital Clock styled with the help of CSS and Js
 
+WORKING LINK - https://karar189.github.io/digital-clock/
+
+
 Here is a working demo
 https://drive.google.com/file/d/1wNy2k-_YpvPvlnJUNP6nKI4GHVrBXlQ8/view?usp=sharing
 
